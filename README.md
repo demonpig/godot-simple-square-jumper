@@ -2,10 +2,12 @@
 
 This is just a simple platformer that I created to learn about 2d movement.
 
-## Controls
+### Controls
 
 A -> Move Left
+
 D -> Move Right
+
 Space -> Jump
 
 ![Game Screenshot](/assets/screenshot.jpg?raw=true)
